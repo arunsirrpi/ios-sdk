@@ -14,4 +14,7 @@
 #import "WTEventSupport.h"
 #import "WTWebViewDelegate.h"
 
+@interface WebtrendsSDK (ForceLoad)
+@end
+
 #endif
