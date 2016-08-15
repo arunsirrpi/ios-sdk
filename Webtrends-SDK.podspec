@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'Core' do |core|
-    core.source_files  = "Headers", "Headers/**/*.h"
+    core.source_files  = "Headers", "Headers/**/*.*"
     core.exclude_files = "Headers/Exclude"
     core.resources = "SharedAssets/*"
 
