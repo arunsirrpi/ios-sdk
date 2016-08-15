@@ -1,5 +1,5 @@
 #import "WebtrendsSDK.h"
 
-@implementation WebtrendsSDK (ForceLoad)
+@implementation WebtrendsSDK 
 
 @end
