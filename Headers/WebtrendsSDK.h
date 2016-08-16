@@ -14,7 +14,6 @@
 #import "WTEventSupport.h"
 #import "WTWebViewDelegate.h"
 
-@interface WebtrendsSDK
-@end
+
 
 #endif
