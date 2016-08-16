@@ -1,5 +1,10 @@
 #import "WebtrendsSDK.h"
 
-@implementation WebtrendsSDK 
+@implementation WTWebViewDelegate (forceload)
+@end
 
+@implementation WTEventSupport (forceload)
+@end
+
+@implementation WTDataCollector (forceload)
 @end
