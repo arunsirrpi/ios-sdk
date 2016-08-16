@@ -3,7 +3,13 @@
 @implementation WTWebViewDelegate (forceload)
 @end
 
-@implementation WTEventSupport (forceload)
+@implementation WTEventMeta (forceload)
+@end
+
+@implementation WTEventMedia (forceload)
+@end
+
+@implementation WTEventMeta (forceload)
 @end
 
 @implementation WTDataCollector (forceload)
